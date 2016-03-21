@@ -7,20 +7,24 @@ and open the template in the editor.
     Created on : Mar 19, 2016, 9:47:59 AM
     Author     : Pradeep
 */
-// HTML index.php
+
+
+/* HTML index.php*/
+
 .Body{
-   
+  /*background-color:#0d9ccb*/
 }
 .Header{
     padding:10px;
-    min-height: 100px;
-    background-color: indianred;
+    min-height: 200px;
+	
+    /*background-color: indianred;*/
 }
 .div_search{
     min-height: 300px;
     padding-left:30px;
     padding:10px;
-    background-color:#ff3333
+    /*background-color:#ff3333*/
 
 }
 .div_search H4{
@@ -31,15 +35,15 @@ and open the template in the editor.
 }
 .div_sel{
     padding:10px;
-    background-color: springgreen
+    /*background-color: springgreen*/
 }
 .ser_image{
     min-height: 370px;
-    background-color: wheat;
+   /* background-color: wheat;*/
 }
 .form_sel{
     padding:10px;
-    background-color: olivedrab
+    /*background-color: olivedrab*/
 }
 .ser_submit{
     text-align: center
@@ -63,8 +67,25 @@ and open the template in the editor.
     padding:10px        
 }
 .footer{
-    background-color:indianred
+	background-color:#0d9ccb;
 }
 
-// stall_list.php
+
+
+/* stall_list.php */
+.Page2{
+}
+.HeaderPage2{
+	padding-bottom:50px;
+	padding-top:50px;
+    max-height: 150px;
+}
+.stall_list{
+	max-height:700px;
+	overflow:auto;
+}
+.stall_list dd {
+	padding-bottom:5px;
+	text-align:Left;
+}
 
