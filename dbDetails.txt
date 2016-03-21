@@ -1,0 +1,8 @@
+Your account number is: 141197
+Your new database is now ready to use.
+To connect to your database use these details
+Host: sql7.freemysqlhosting.net
+Database name: sql7111284
+Database user: sql7111284
+Database password: fvdLuE5W6E
+Port number: 3306
