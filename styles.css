@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 19, 2016, 9:47:59 AM
+    Author     : Pradeep
+*/
+// HTML index.php
+.Body{
+   
+}
+.Header{
+    padding:10px;
+    min-height: 100px;
+    background-color: indianred;
+}
+.div_search{
+    min-height: 300px;
+    padding-left:30px;
+    padding:10px;
+    background-color:#ff3333
+
+}
+.div_search H4{
+    text-align: center
+}
+.div_search input, select{
+    width: 200px
+}
+.div_sel{
+    padding:10px;
+    background-color: springgreen
+}
+.ser_image{
+    min-height: 370px;
+    background-color: wheat;
+}
+.form_sel{
+    padding:10px;
+    background-color: olivedrab
+}
+.ser_submit{
+    text-align: center
+}
+.ser_form_occ{
+    text-align: center; 
+}
+.ser_occ_name{
+    text-align: center;
+    padding:10px
+}
+.ser_occ_date{
+    text-align: center;
+    padding:10px
+}
+.ser_title{
+    padding-right:30%
+}
+.ser_occ_place{
+    text-align: center;
+    padding:10px        
+}
+.footer{
+    background-color:indianred
+}
+
+// stall_list.php
+
